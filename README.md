@@ -1,0 +1,2 @@
+# 2024 - ICTIR: Instance Selection with Quantum Annealing
+This is the repository for the paper "A Quantum Annealing Instance Selection Approach for Efficient and Effective Transformer Fine-Tuning" accepted at ICTIR 2024.
